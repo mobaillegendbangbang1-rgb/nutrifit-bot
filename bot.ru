@@ -1,4 +1,4 @@
-bot.ру
+bot.ru
 import telebot
 
 BOT_TOKEN = "8718736420:AAHLwCPdT4O4GtnwX2hxfLrc34hw1vgR9gM"
