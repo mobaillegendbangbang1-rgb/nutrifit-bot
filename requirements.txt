@@ -1,1 +1,1 @@
-руTelegramBotAPI==4.33.0
+руtelegrambotapi
